@@ -1,7 +1,7 @@
 #include <iostream>
 
-//TENARY OPERATOR
-//Ein "tenary operator" (?:) kann an Stelle eines "if/else"-statments verwendet werden.
+//TERNARY OPERATOR
+//Ein "ternary operator" (?:) kann an Stelle eines "if/else"-statments verwendet werden.
 //expression1 : expression2;
 
 int main(){
